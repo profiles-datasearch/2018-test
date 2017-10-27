@@ -30,7 +30,7 @@
             <ul>
 			{% for link in page.navigation %}
 			<li class="button {% if url == link.url %}active{% endif %}">
-				<a href="{{link.url}}">{{link.text}}</a>
+				<a href="{{link.href}}">{{link.text}}</a>
 			</li>
 			{% endfor %}            
             </ul>

@@ -6,8 +6,10 @@ layout: default
 navigation:
  - text: Workshop Site
    url: /
+   href: .
  - text: Proposal
    url: /proposal.html
+   href: ./proposal
 ---
 
 This full day workshop explores Human Data Interaction challenges, specifically in information retrieval for data on the web. We want to stimulate an interdisciplinary discussion around opportunities to improve the discovery of structured and semi-structured data, independent of data formats and domain specific applications. We plan this to be the first of a series of similar workshops which bring together communities interested in making the web of data more discoverable, easier to search and more user friendly.
