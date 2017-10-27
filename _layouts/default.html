@@ -26,7 +26,7 @@
       <div id="banner">
           {% assign url = page.url|remove:'index.html' %}
           <div class="versions">
-            <span>View:{{url}}</span>
+            <span>View:</span>
             <ul>
 			{% for link in page.navigation %}
 			<li class="button {% if url == link.url %}active{% endif %}">
