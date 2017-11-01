@@ -1,5 +1,5 @@
 ---
-title: Workshop on Data Search
+title: 1st International Workshop on Data Search
 
 layout: default
 
@@ -12,7 +12,7 @@ navigation:
    href: ./proposal
 ---
 
-This full day workshop explores Human Data Interaction challenges, specifically in information retrieval for data on the web. We want to stimulate an interdisciplinary discussion around opportunities to improve the discovery of structured and semi-structured data, independent of data formats and domain specific applications. We plan this to be the first of a series of similar workshops which bring together communities interested in making the web of data more discoverable, easier to search and more user friendly.
+This full day workshop explores challenges in data discovery and Human Data Interaction, specifically in information retrieval for data on the web. We want to stimulate an interdisciplinary discussion around how to improve the discovery of structured and semi-structured data, independent of data formats and domain specific applications. We welcome contributions describing technical approaches; as well as those related to interaction research in data discovery and retrieval. We plan this to be the first of a series of similar workshops which bring together communities interested in making the web of data more discoverable, easier to search and more user friendly.
 
 # [](#objectives)Objectives and Goals
 
