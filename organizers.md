@@ -4,7 +4,7 @@
 
 **Prof. Oscar Corcho** is professor at Departamento de Inteligencia Artificial (Facultad de Informática , Universidad Politécnica de Madrid), and he co-leads the Ontology Engineering Group. His research activities are focused on Open Science, Open Data, Semantic Web and Ontological Engineering. In these areas, he has participated in a number of national and European research projects. Previously, he worked as a Marie Curie research fellow at the University of Manchester, and was a research manager at iSOCO. He holds a degree in Computer Science, an MSc in Software Engineering and a PhD in Computational Science and Artificial Intelligence from UPM. He was awarded the Third National Award by the Spanish Ministry of Education in 2001, and the Juan López de Peñalver Award by the Spanish Royal Society of Engineering in 2016. He has published several books, from which “Ontological Engineering” can be highlighted as it is being used as a reference book in a several university lectures worldwide, and more than 100 papers in journals, conferences and workshops. He usually participates in the organisation or in the programme committees of relevant international conferences and workshops.
 
-## [](#organizing-committee) Ortanizing Committee
+## [](#organizing-committee) Organising Committee
 
 **Dr. Vadim Savenkov** is a post-doc researcher in the Vienna University of Economics and Business (WU). He did his PhD on the foundations of information integration in Vienna University of Technology (2012). His research spans various topics of data integration on the Web, including querying and updates in the Semantic Web context. He is running an Austrian research project CommuniData.at, which aims at increasing the accessibility of Open Data for the end users.
 
