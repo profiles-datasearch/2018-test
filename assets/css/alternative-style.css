@@ -7,3 +7,8 @@ section {
 body {
   background: none;
 }
+
+banner {
+  background: #000000;
+  border: 1px solid #f0b500;
+}
