@@ -32,7 +32,7 @@
             <span>View:</span>
             <ul>
 			{% for link in page.navigation %}
-			<li class="myButton button {% if url == link.url %}active{% endif %}">
+			<li class="button myButton {% if url == link.url %}active{% endif %}">
 				<a href="{{link.href}}">{{link.text}}</a>
 			</li>
 			{% endfor %}            
