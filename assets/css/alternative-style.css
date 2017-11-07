@@ -96,4 +96,8 @@ header p {
     top: 163px; 
     box-shadow: none;
   }
+  
+  header {
+    position: fixed;
+  }
 }
