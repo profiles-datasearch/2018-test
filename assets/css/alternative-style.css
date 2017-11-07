@@ -23,6 +23,14 @@ header {
   box-shadow: none;
 }
 
+nav {
+  padding-top: 50px; 
+}
+
+.wrapper {
+  padding-top: 50px; 
+}
+
 /* .myButton {
     background-color:#1b53b3 ;
     -moz-border-radius:5px;
