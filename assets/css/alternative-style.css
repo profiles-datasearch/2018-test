@@ -15,6 +15,11 @@ body {
 
 header {
   background: url(../images/cropped-steve-shreve.jpg) #ffffff; 
+  height: 150px;
+}
+
+#banner {
+  top: 163px; 
 }
 
 /* .myButton {
