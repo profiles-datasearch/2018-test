@@ -90,3 +90,10 @@ header p {
   margin: 0px;
 }
 */
+
+@media print, screen and (max-width: 720px) {
+  #banner {
+    top: 163px; 
+    box-shadow: none;
+  }
+}
