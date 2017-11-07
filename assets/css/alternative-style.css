@@ -93,7 +93,7 @@ header p {
 
 @media print, screen and (max-width: 720px) {
   #banner {
-    top: 1000px; 
+    top: 100px; 
     box-shadow: none;
   }
   
