@@ -100,4 +100,8 @@ header p {
   header {
     position: fixed;
   }
+  
+  section {
+    top: 130px; 
+  }
 }
