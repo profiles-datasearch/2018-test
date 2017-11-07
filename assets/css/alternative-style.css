@@ -13,6 +13,10 @@ body {
   border: 1px solid black;
 }
 
+header {
+  background: url(../images/cropped-steve-shreve.jpg) #ffffff; 
+}
+
 /* .myButton {
     background-color:#1b53b3 ;
     -moz-border-radius:5px;
