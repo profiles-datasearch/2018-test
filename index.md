@@ -1,5 +1,5 @@
 ---
-title: Workshop on Data Search
+title: PROFILES &amp; DATA:SEARCH 
 
 layout: default
 
