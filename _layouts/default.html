@@ -22,25 +22,12 @@
 	  <div id="site-logo"></div>
 
       <header>
-        <h1><img style="height:32pt;" src="assets/images/profiles.png"> &amp; DATA:SEARCH</h1>
+        <h1><img style="height:30pt;" src="assets/images/profilesw.png"/> &amp; <span style="font-size:36pt;color:#FEFFEB;">DATA:SEARCH</span> '18</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <p style="margin-top:58pt;margin-left:-40pt;">April 24, 2018, Lyon, France. Co-located with The Web Conference '2018
+        </p>
       </header>
-
-      <div id="banner">
-          {% assign url = page.url|remove:'index.html' %}
-          <div class="versions">
-            <span>View:</span>
-            <ul>
-			{% for link in page.navigation %}
-			<li class="button myButton {% if url == link.url %}active{% endif %}">
-				<a href="{{link.href}}">{{link.text}}</a>
-			</li>
-			{% endfor %}            
-            </ul>
-          </div>
-        <span id="logo"></span>
-      </div><!-- end banner -->
-
 
     <div class="wrapper">
 	  <nav>
