@@ -56,6 +56,22 @@ PROFILES & DATA:SEARCH ’18 seeks application-oriented papers, as well as more 
 
 We are interested in contributions using a variety of methods. This can include, for example, user studies, lab experiments, system based evaluation, but also experiments using gamification and crowdsourcing.
 
+# [](#submission) Submission Guidelines and Proceedings
+
+We welcome the following types of contributions:
+
+We encourage full papers (8 pages), short papers (4 pages) as well as position papers (2 pages). All submissions must be written in English and must be formatted according to the ACM format. The  proceedings of the workshop will be included in the companion proceedings of The WebConf2018. Each submission will be reviewed by at least 2 members of the PC. Papers will be evaluated according to their significance, originality, technical content, style, clarity, and relevance to the workshop. Please submit your contributions electronically in PDF format via the Easychair system: 
+https://easychair.org/conferences/?conf=profiles-datasearch2018 
+
+
+# [](#important-dates) Important Dates
+
+Workshop paper submissions due: 24 January 2018
+Workshop paper notifications sent: 14 February 2018
+Camera-ready copies due: 01 March 2018
+PROFILES & DATA:SEARCH Workshop: 24 April 2018
+
+
 # [](#schedule)Tentative Schedule
 
 <table style="width:90%;">
