@@ -18,7 +18,7 @@ The web of data has seen tremendous growth recently. New forms of structured dat
 
 The objective of this workshop is to bring together researchers and practitioners interested in the development of data search techniques, data profiling, and dataset retrieval on the web. This includes looking at the specifics of data-centric information seeking behaviour, understanding interaction challenges in data search on the web, and analysing the cognitive processes involved in the consumption of structured data by users. At the same time we aim to discuss technologies addressing data search – including semantics, information retrieval for web data (ranking algorithms and indexing), in particular in the context of decentralised and distributed systems, such as the web. We are interested in approaches to analyse, characterise and discover data sources. We want to facilitate a discussion around data search across formats and domain-specific applications. 
 
-We see this workshop as a forum for researchers and practitioners to come together and discuss common challenges and identify synergies for joint initiatives.
+We envision the workshop as a forum for researchers and practitioners to come together and discuss common challenges and identify synergies for joint initiatives. We welcome contributions describing technical approaches, as well as those related to Human Computer Interaction research in data discovery, profiling and retrieval. 
 
 
 
