@@ -29,7 +29,7 @@
 *  Konstantin Todorov (LIRMM / University of Montpellier)
 *  Nicolas Torzec (Yahoo)
 *  Raquel Trillo-Lado (Universidad de Zaragoza)
-*  Jürgen Umbrich (Vienna University of Economy and Business (WU))
+*  Jürgen Umbrich (Vienna University of Economy and Business - WU Wien)
 *  Ran Yu (L3S Research Center)
 
 
