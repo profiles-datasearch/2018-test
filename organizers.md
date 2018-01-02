@@ -1,7 +1,7 @@
 ## [](#programm-committee) Program Committee
 
 *  Charlie Abela (University of Malta)
-*  Alessandro Adamou (Knowledge Media Institute, UK)
+*  Alessandro Adamou (Insight Centre, Ireland)
 *  Marco Antonio Casanova (Pontifical Catholic University of Rio de Janeiro, Brazil)
 *  Philipp Cimiano (Bielefeld University, Germany)
 *  Enrico Daga (The Open University, UK)
@@ -15,8 +15,8 @@
 *  Emilia Kacprzak (The Open Data Institute, UK)
 *  Eva Méndez (University Carlos III of Madrid, Spain)
 *  Stefano Modafferi (University of Southampton, UK)
-*  Dmitry Mouromtsev (NRU ITMO, Russia)
-*  Axel-Cyrille Ngonga Ngomo (University of Leipzig, Germany)
+*  Dmitry Mouromtsev (ITMO University, Russia)
+*  Axel-Cyrille Ngonga Ngomo (University of Paderborn, Germany)
 *  Natalya Noy (Google, USA)
 *  Andreas Nuernberger (Otto-von-Guericke University of Magdeburg, Germany)
 *  Bernardo Pereira Nunes (Pontifical Catholic University of Rio de Janeiro, Brazil)
