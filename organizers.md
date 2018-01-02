@@ -1,7 +1,7 @@
 ## [](#programm-committee) Program Committee
 
 *  Charlie Abela (University of Malta)
-*  Alessandro Adamou (Insight Centre, Ireland)
+*  Alessandro Adamou (The Insight Centre, Ireland)
 *  Marco Antonio Casanova (Pontifical Catholic University of Rio de Janeiro, Brazil)
 *  Philipp Cimiano (Bielefeld University, Germany)
 *  Enrico Daga (The Open University, UK)
