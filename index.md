@@ -66,7 +66,7 @@ We encourage full papers (8 pages), short papers (4 pages) as well as position p
 
 # [](#important-dates) Important Dates
 
-Workshop paper submissions due: <s>24 January<s>&nbsp;<span style="font-color:red;font-size:large;">6 February 2018</span>
+Workshop paper submissions due: <s>24 January</s>&nbsp;<span style="font-color:red;font-size:large;">6 February 2018</span>
 
 Workshop paper notifications sent: 14 February 2018
 
