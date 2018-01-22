@@ -86,7 +86,7 @@ PROFILES & DATA:SEARCH Workshop: 24 April 2018
 </tr>
 </table>
 
-**Keynote Speaker:** *Maarten de Rijke (University of Amsterdam)*
+**Keynote Speaker:** *The invited speaker for the opening keynote of the workshop will be [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) from the University of Amsterdam.*
 
 <table style="width:90%">
 <tr>
