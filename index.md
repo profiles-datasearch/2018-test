@@ -86,7 +86,7 @@ PROFILES & DATA:SEARCH Workshop: 24 April 2018
 </tr>
 </table>
 
-**Keynote Speaker:** *Maarten de Rijke*
+**Keynote Speaker:** *Maarten de Rijke (University of Amsterdam)*
 
 <table style="width:90%">
 <tr>
