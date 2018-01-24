@@ -1,4 +1,4 @@
-## [](#programm-committee) Program Committee
+### [](#programm-committee) Program Committee
 
 *  Charlie Abela (University of Malta)
 *  Alessandro Adamou (The Insight Centre, Ireland)
@@ -33,7 +33,7 @@
 *  Ran Yu (L3S Research Center, Germany)
 
 
-## [](#chairs) Chairs
+### [](#chairs) Chairs
 
 **[Laura Koesten](https://theodi.org/team/laura-koesten)**, <laura.koesten@theodi.org> is a Marie Curie Skłodowska fellow, doing her PhD at the *Open Data Institute* and at the *University of Southampton* in the UK. She is part of WDAqua, a European Union’s Horizon 2020 initiative to advance state of the art Question Answering. Her research interests are Human Computer Interaction, Interactive Information Retrieval with a focus on dataset retrieval, Open Data and and Semantic Interfaces. In her PhD she is looking at ways to improve Human Data Interaction in IIR systems. She publishes at CHI and has a background in Human Factors, with an MSc from Loughborough University.
 
