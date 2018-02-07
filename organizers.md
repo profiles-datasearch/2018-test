@@ -19,6 +19,7 @@
 *  Axel-Cyrille Ngonga Ngomo (University of Paderborn, Germany)
 *  Natalya Noy (Google, USA)
 *  Andreas Nuernberger (Otto-von-Guericke University of Magdeburg, Germany)
+*  Liudmila Ostroumova Prokhorenkova (Yandex, Russia)
 *  Bernardo Pereira Nunes (Pontifical Catholic University of Rio de Janeiro, Brazil)
 *  Axel Polleres (Vienna University of Economics and Business - WU, Austria)
 *  Muhammad Saleem (University Of Leizpig, Germany)
