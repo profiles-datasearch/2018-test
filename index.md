@@ -14,6 +14,20 @@ navigation:
 
 # [](#news) News
 
+* **February 14. We are happy to announce the list of accepted papers:**
+
+	* Emilia Kacprzak, Laura Koesten, Jeni Tennison and Elena Simperl **Characterising Dataset Search Queries** (Short paper)
+
+	* Mohamed Ben Ellefi, Odile Papini, Djamal Merad, Jean-Marc Boi, Jean-Philip Royer, Jérôme Pasquet, Jean-Christophe Sourisseau, Filipe Castro, Mohamad Motasem Nawaf and Pierre Drap **Cultural Heritage Resources Profiling: Ontology-based Approach**
+
+	* Semih Yumuşak, Andreas Kamilaris, Erdogan Dogdu, Halife Kodaz, Elif Uysal and Riza Emre Aras **A Discovery and Analysis Engine for Semantic Web**
+
+	* Michael Gubanov **Hybrid.AI: A Learning Search Engine for Large-scale Structured Data**
+
+	* Zhiyu Chen, Haiyan Jia, Jeff Heflin and Brian Davison **Generating Schema Labels through Dataset Content Analysis**
+
+	* Sebastian Neumaier, Lőrinc Thurnay, Thomas J. Lampoltshammer and Tomáš Knap **Search, Filter, Fork, and Link Open Data - The ADEQUATe platform: data- and community-driven quality improvements** (Short paper)
+
 * <strong style="font-size:large;font-weight:bold;">The submission deadline is extended to <span style="color:red">February 6</span></strong>.
 
 * <strong> We are happy to announce our <span style="font-weight:bold">keynote speakers</span></strong>: 
