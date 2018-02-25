@@ -22,7 +22,7 @@ navigation:
 
 	* Semih Yumuşak, Andreas Kamilaris, Erdogan Dogdu, Halife Kodaz, Elif Uysal and Riza Emre Aras **A Discovery and Analysis Engine for Semantic Web**
 
-	* Michael Gubanov **Hybrid.AI: A Learning Search Engine for Large-scale Structured Data**
+	* Sean Soderman, Anusha Kola, Maxim Podkorytov, Michel Geyer and Michael Gubanov **Hybrid.AI: A Learning Search Engine for Large-scale Structured Data**
 
 	* Zhiyu Chen, Haiyan Jia, Jeff Heflin and Brian Davison **Generating Schema Labels through Dataset Content Analysis**
 
@@ -38,6 +38,9 @@ navigation:
 </td>
 <td style="text-align:center"> <img src="http://aidanhogan.com/img/me-sp.png" style="width:250px;margin-top:25px"/> <a href="http://aidanhogan.com">Aidan Hogan</a>, <br/> <a href="http://www.uchile.cl/">Universidad de Chile</a> 
 </td>
+</tr>
+<tr>
+	<td style="text-align:center"></td><td style="text-align:center"><strong>Profiling Graphs: Order from Chaos</strong></td>
 </tr>
 </table>
 
