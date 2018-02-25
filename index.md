@@ -39,9 +39,6 @@ navigation:
 <td style="text-align:center"> <img src="http://aidanhogan.com/img/me-sp.png" style="width:250px;margin-top:25px"/> <a href="http://aidanhogan.com">Aidan Hogan</a>, <br/> <a href="http://www.uchile.cl/">Universidad de Chile</a> 
 </td>
 </tr>
-<tr>
-	<td style="text-align:center"></td><td style="text-align:center"><strong>Profiling Graphs: Order from Chaos</strong></td>
-</tr>
 </table>
 
 ## [](#objectives) Objectives and Goals
@@ -119,7 +116,8 @@ PROFILES & DATA:SEARCH Workshop: 24 April 2018
 <td>09:15 – 10:00</td><td><strong>Keynote <a href="https://staff.fnwi.uva.nl/m.derijke/">Maarten de Rijke</a></strong></td>
 </tr>
 <tr>
-    <td>10:00 - 10:45</td><td><strong>Keynote <a href="http://aidanhogan.com">Aidan Hogan</a></strong></td> 
+    <td>10:00 - 10:45</td><td><strong>Keynote <a href="http://aidanhogan.com">Aidan Hogan</a> Profiling Graphs: Order from Chaos</strong><br/> 
+	</td> 
 </tr>
 </table>
 
