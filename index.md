@@ -113,7 +113,7 @@ PROFILES & DATA:SEARCH Workshop: 24 April 2018
 <td style="width:96pt;">09:00 – 09:15</td><td>Introduction by organisers</td>
 </tr>
 <tr>
-<td>09:15 – 10:00</td><td><strong>Keynote <a href="https://staff.fnwi.uva.nl/m.derijke/">Maarten de Rijke</a>Learning to Search for Datasets</strong></td>
+<td>09:15 – 10:00</td><td><strong>Keynote <a href="https://staff.fnwi.uva.nl/m.derijke/">Maarten de Rijke</a> Learning to Search for Datasets</strong></td>
 </tr>
 <tr>
     <td>10:00 - 10:45</td><td><strong>Keynote <a href="http://aidanhogan.com">Aidan Hogan</a> Profiling Graphs: Order from Chaos</strong><br/> 
