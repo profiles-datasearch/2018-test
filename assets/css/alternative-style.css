@@ -91,6 +91,31 @@ header p {
 }
 */
 
+td.timespan {
+  width:68pt;
+}
+
+td span.timespan {  
+  font-size: smaller;
+ }
+
+ul.program-papers{
+  font-size: small; 
+  line-height: 130%;
+  padding-left:9pt;
+  margin-top:6pt;
+}
+
+ul.program-papers li {
+  margin-top: 6pt;
+}
+
+.schedule strong{
+  font-size: inherit;
+  font-weight: bold;
+  margin-top: 6pt;
+}
+
 @media print, screen and (max-width: 720px) {
   #banner {
     top: 100px; 
@@ -104,4 +129,9 @@ header p {
   section {
     top: 80px; 
   }
+
+  td.timespan {
+    width:38pt;
+  }
+
 }

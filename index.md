@@ -12,25 +12,35 @@ navigation:
    href: ./proposal
 ---
 
-# [](#news) News
+## [](#news) News
+* **March 5.** Tentative <a href="#tentative-schedule">workshop program</a> updated.
 
-* **February 14. We are happy to announce the list of accepted papers:**
+* **February 14.** Accepted papers announced.
+  <div class="wrap-collabsible">
+   <input id="collapsible" class="toggle" type="checkbox">
+   <label for="collapsible" class="lbl-toggle"> Click to see all accepted papers </label>
+   <div class="collapsible-content">
+    <div class="content-inner" style="font-size:smaller;">
+        <ul>
+		 <li> Emilia Kacprzak, Laura Koesten, Jeni Tennison and Elena Simperl <strong>Characterising Dataset Search Queries</strong> (Short paper)</li>
 
-	* Emilia Kacprzak, Laura Koesten, Jeni Tennison and Elena Simperl **Characterising Dataset Search Queries** (Short paper)
+		 <li> Mohamed Ben Ellefi, Odile Papini, Djamal Merad, Jean-Marc Boi, Jean-Philip Royer, Jérôme Pasquet, Jean-Christophe Sourisseau, Filipe Castro, Mohamad Motasem Nawaf and Pierre Drap <strong>Cultural Heritage Resources Profiling: Ontology-based Approach</strong></li>
 
-	* Mohamed Ben Ellefi, Odile Papini, Djamal Merad, Jean-Marc Boi, Jean-Philip Royer, Jérôme Pasquet, Jean-Christophe Sourisseau, Filipe Castro, Mohamad Motasem Nawaf and Pierre Drap **Cultural Heritage Resources Profiling: Ontology-based Approach**
+		 <li> Semih Yumuşak, Andreas Kamilaris, Erdogan Dogdu, Halife Kodaz, Elif Uysal and Riza Emre Aras <strong>A Discovery and Analysis Engine for Semantic Web</strong></li>
 
-	* Semih Yumuşak, Andreas Kamilaris, Erdogan Dogdu, Halife Kodaz, Elif Uysal and Riza Emre Aras **A Discovery and Analysis Engine for Semantic Web**
+		 <li> Sean Soderman, Anusha Kola, Maxim Podkorytov, Michel Geyer and Michael Gubanov <strong>Hybrid.AI: A Learning Search Engine for Large-scale Structured Data</strong></li>
 
-	* Sean Soderman, Anusha Kola, Maxim Podkorytov, Michel Geyer and Michael Gubanov **Hybrid.AI: A Learning Search Engine for Large-scale Structured Data**
+		 <li> Zhiyu Chen, Haiyan Jia, Jeff Heflin and Brian Davison <strong>Generating Schema Labels through Dataset Content Analysis</strong></li>
 
-	* Zhiyu Chen, Haiyan Jia, Jeff Heflin and Brian Davison **Generating Schema Labels through Dataset Content Analysis**
+		 <li> Sebastian Neumaier, Lőrinc Thurnay, Thomas J. Lampoltshammer and Tomáš Knap <strong>Search, Filter, Fork, and Link Open Data - The ADEQUATe platform: data- and community-driven quality improvements</strong> (Short paper)</li>
+	 </ul> 
+    </div>
+  </div>
+  </div>
 
-	* Sebastian Neumaier, Lőrinc Thurnay, Thomas J. Lampoltshammer and Tomáš Knap **Search, Filter, Fork, and Link Open Data - The ADEQUATe platform: data- and community-driven quality improvements** (Short paper)
+* **January 24.** The submission deadline is extended to _February 6_.
 
-* <strong style="font-size:large;font-weight:bold;">The submission deadline is extended to <span style="color:red">February 6</span></strong>.
-
-* <strong> We are happy to announce our <span style="font-weight:bold">keynote speakers</span></strong>: 
+* **January 10.** <a href="#tentative-schedule">Keynote</a> speakers announced:
 <table>
 <tr>
 <td style="text-align:center"> <img src="https://staff.fnwi.uva.nl/m.derijke/wp-content/uploads/D3X_0195Maarten-de-Rijke-small.jpg" style="width:250px"/>
@@ -85,7 +95,7 @@ PROFILES & DATA:SEARCH ’18 seeks application-oriented papers, as well as more 
 
 We are interested in contributions using a variety of methods. This can include, for example, user studies, lab experiments, system based evaluation, but also experiments using gamification and crowdsourcing.
 
- ## [](#submission) Submission Guidelines
+### Submission Guidelines 
 
 We welcome the following types of contributions:
 
@@ -93,7 +103,6 @@ We encourage full papers (8 pages), short papers (4 pages) as well as position p
 <https://easychair.org/conferences/?conf=profiles-datasearch2018> 
 
 We follow a single-blind process with at least two reviewers per paper. Papers will be evaluated according to their significance, originality, technical content, style, clarity, and relevance to the workshop. 
-
 
 ## [](#important-dates) Important Dates
 
@@ -108,41 +117,95 @@ PROFILES & DATA:SEARCH Workshop: 24 April 2018
 
 ## [](#schedule)Tentative Schedule
 
-<table style="width:90%;">
+<table class="schedule" style="width:90%;">
 <tr>
-<td style="width:96pt;">09:00 – 09:15</td><td>Introduction by organisers</td>
+<td class="timespan"><span class="timespan">09:00 – 09:10</span></td><td>Introduction &amp; welcome</td>
 </tr>
-<tr>
-<td>09:15 – 10:00</td><td><strong>Keynote <a href="https://staff.fnwi.uva.nl/m.derijke/">Maarten de Rijke</a> Learning to Search for Datasets</strong></td>
-</tr>
-<tr>
-    <td>10:00 - 10:45</td><td><strong>Keynote <a href="http://aidanhogan.com">Aidan Hogan</a> Profiling Graphs: Order from Chaos</strong><br/> 
-	</td> 
-</tr>
-</table>
 
-<table style="width:90%">
 <tr>
-<td style="width:96pt;">10:45 – 11:00</td><td> Coffee break</td>
+<td><span class="timespan">09:10 – 09:20</span></td><td>Opening</td>
 </tr>
 <tr>
-<td>11:00 – 12:30</td><td> Presentation of papers, questions, discussions</td>
+<td><span class="timespan">09:20 – 10:20</span></td><td>Keynote talk <a href="https://staff.fnwi.uva.nl/m.derijke/">Maarten de Rijke</a><br/> <strong>Learning to Search for Datasets</strong></td>
 </tr>
 <tr>
-<td>12:30 – 14:00</td><td> Lunch break</td>
+<td colspan="2">
+  <div class="wrap-collabsible">
+   <input id="collapsible1" class="toggle" type="checkbox">
+   <label for="collapsible1" class="lbl-toggle" style="text-align: center"> Abstract </label> 
+   <div class="collapsible-content">
+    <div class="content-inner" style="font-size:smaller;">
+		Over the years, search engines have developed to return a broad range of retrievable items, from documents to people, locations, and products. Research datasets are being turned in retrievable items too. This raises a number of interesting challenges. Starting from the user end (What do users want from datasets?) to  increasing the retrievability of datasets (What kind of contextual information is available to enrich datasets so as to make the more easily retrieval?) to optimizing rankers for datasets in the absence of large volumes of interaction data (How can we train learning to rank datasets algorithms in weakly supervised ways?). In the talk I will survey recent progress in these three areas and identify important open problems.
+    </div>
+  </div>
+  </div>
+</td>
 </tr>
 <tr>
-<td>14:00 – 15:30</td><td> Round tables <br/> <span style="font-size:small;font-style:italic;">We expect 2 to 4 round tables around topics based on accepted submissions and statements of interest by the workshop participants.</span></td>
+<td><span class="timespan">10:20 – 11:00</span></td><td> Break</td>
 </tr>
 <tr>
-<td>15:30 – 16:00</td><td> Coffee break</td>
+<td style="vertical-align: top;"><span class="timespan">11:00 – 12:20</span></td><td> 
+Paper presentations 
+    <ul class="program-papers">
+		 <li> Zhiyu Chen, Haiyan Jia, Jeff Heflin and Brian Davison <br/> <strong>Generating Schema Labels through Dataset Content Analysis</strong></li>
+
+		 <li> Semih Yumuşak, Andreas Kamilaris, Erdogan Dogdu, Halife Kodaz, Elif Uysal and Riza Emre Aras <br/> <strong>A Discovery and Analysis Engine for Semantic Web</strong></li>
+
+		 <li> Sean Soderman, Anusha Kola, Maxim Podkorytov, Michel Geyer and Michael Gubanov <br/> <strong>Hybrid.AI: A Learning Search Engine for Large-scale Structured Data</strong></li>
+
+		 <li> Emilia Kacprzak, Laura Koesten, Jeni Tennison and Elena Simperl <br/> <strong>Characterising Dataset Search Queries</strong> (Short paper)</li>
+	</ul>
+</td>
 </tr>
 <tr>
-<td>16:00 – 17:00</td><td> Summary of discussions from the round tables, call to action for future activities, wrap up of the workshop</td>
+<td><span class="timespan">12:20 – 13:40</span></td><td> Lunch break</td>
 </tr>
 <tr>
-<td>19:00 – 22:00</td><td> Social event</td>
+<td><span class="timespan">13:40 – 14:40</span></td><td>Keynote talk <a href="http://aidanhogan.com">Aidan Hogan</a><br/> <strong>Profiling Graphs: Order from Chaos</strong></td>
 </tr>
+<tr>
+<td colspan="2">
+  <div class="wrap-collabsible">
+   <input id="collapsible2" class="toggle" type="checkbox">
+   <label for="collapsible2" class="lbl-toggle" style="text-align: center"> Abstract </label> 
+   <div class="collapsible-content">
+    <div class="content-inner" style="font-size:smaller;">
+		Graphs are being increasingly adopted as a flexible data model in scenarios (e.g., Google’s Knowledge Graph, Facebook’s Graph API, Wikidata, etc.) where multiple editors are involved in content creation, where the schema is ever changing, where data are incomplete, where the connectivity of resources plays a key role—scenarios where relational models traditionally struggle. But with this flexibility comes a conceptual cost: it can be difficult to summarise and understand, at a high level, the content that a given graph contains. Hence profiling graphs becomes of increasing importance to extract order, a posteriori, from the chaotic processes by which such graphs are often generated. This talk will motivate the use of graphs as a data model, abstract recent trends in graph data management, and then turn to the issue of profiling graphs: what are the goals of such profiling, the principles by which graphs can be summarised, the main techniques by which this can/could be achieved? The talk will emphasise the importance of profiling graphs while highlighting a variety of open research questions yet to be tackled.
+    </div>
+  </div>
+  </div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top;"><span class="timespan">14:40 – 15:00</span></td><td> 
+Paper presentation 
+    <ul class="program-papers">
+		 <li> Mohamed Ben Ellefi, Odile Papini, Djamal Merad, Jean-Marc Boi, Jean-Philip Royer, Jérôme Pasquet, Jean-Christophe Sourisseau, Filipe Castro, Mohamad Motasem Nawaf and Pierre Drap <br/> <strong>Cultural Heritage Resources Profiling: Ontology-based Approach</strong></li>
+	</ul>
+</td>
+</tr>
+
+<tr>
+<td><span class="timespan">15:00 – 15:40</span></td><td> Coffee break</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><span class="timespan">15:40 – 15:55</span></td><td> 
+Paper presentation 
+    <ul class="program-papers">
+		 <li> Sebastian Neumaier, Lőrinc Thurnay, Thomas J. Lampoltshammer and Tomáš Knap <br/> <strong>Search, Filter, Fork, and Link Open Data - The ADEQUATe platform: data- and community-driven quality improvements</strong> (Short paper)</li>
+	</ul>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><span class="timespan">15:55 – 16:50</span></td><td> Panel discussion <br/> <span style="font-size:small;font-style:italic;">Panelists to be announced.</span></td>
+</tr>
+<tr>
+<td><span class="timespan">16:50 – 17:00</span></td><td> Summary of discussions, wrap up</td>
+</tr>
+
 </table>
 
 
