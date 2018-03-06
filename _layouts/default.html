@@ -20,20 +20,38 @@
   </head>
   <body>
 
-	  <div id="site-logo"></div>
-
-      <header>
-        <h1><img style="height:30pt;" src="assets/images/profilesw.png"/> &amp; <span style="font-size:36pt;color:#FEFFEB;">DATA:SEARCH</span> '18</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <p style="margin-top:58pt;margin-left:-40pt;">April 24, 2018, Lyon, France. Co-located with The Web Conference '2018
-        </p>
+	   <header>
+        <div style="display:inline-block;"> <img style="height:70pt;float:left;margin-left:-20px;" src="assets/images/logo2.png"/> <p style="width:400px;float:left;text-align:left;font-size:xx-large;line-height:110%;margin-left:9pt;margin-top:-5px;">{{ site.description | default: site.github.project_tagline }}</p></div>
+        
+        <p style="margin-top:12pt;">April 24, 2018, Lyon, France. Co-located with The Web Conference '2018<p/> 
+        <!--p style="margin-left:-250pt;"></p-->
       </header>
 
     <div class="wrapper">
 	  <nav>
 	  <ul></ul>
+
+    <div style="margin-top:300px">
+    <p>
+      <img src="{{ '/assets/images/datastories.png' | relative_url }}" style="width:190px"/>
+    </p>  
+    <p>
+      <img src="{{ '/assets/images/keystone.png' | relative_url }}" style="width:190px"/>
+    </p>  
+    </div>
+
 	  </nav>
+
+    <aside>
+      <p>
+        <img src="{{ '/assets/images/odata4urban.png' | relative_url }}" style="width:190px"/>
+      </p>  
+      <p>
+        <img src="{{ '/assets/images/tbfy.png' | relative_url }}" style="width:190px"/>
+      </p>  
+
+    </aside>
+
       <section>
 
         {{ content }}
