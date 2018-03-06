@@ -117,7 +117,7 @@ PROFILES & DATA:SEARCH Workshop: 24 April 2018
 
 ## [](#schedule)Tentative Schedule
 
-<table class="schedule" style="width:90%;">
+<table class="schedule" style="width:100%;">
 <tr>
 <td class="timespan"><span class="timespan">09:00 – 09:10</span></td><td>Introduction &amp; welcome</td>
 </tr>
@@ -212,6 +212,4 @@ Paper presentation
 ## [](#chairs)Chairs and Organizers
 
 {% include_relative organizers.md %}
-
-<img src="assets/images/cropped-steve-shreve.jpg" style="opacity:.2"/>
 

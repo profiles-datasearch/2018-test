@@ -86,7 +86,7 @@ td span.timespan {
  }
 
 ul.program-papers{
-  font-size: small; 
+  font-size: smaller; 
   line-height: 130%;
   padding-left:9pt;
   margin-top:6pt;
@@ -102,6 +102,8 @@ ul.program-papers li {
   margin-top: 6pt;
 }
 
+
+
 aside {
   width: 230px;
   position: fixed;
@@ -116,6 +118,43 @@ aside {
 
 aside p{ 
   margin-top:40px; 
+}
+
+
+footer {
+  margin-top: -50px;
+  width:650px;
+}
+
+#footerbanner {
+  height:100px;
+  background:url("../images/cropped-steve-shreve.jpg");
+  background-position: center -60px;
+  opacity:.1;
+  background-repeat: no-repeat;
+}
+
+#ackline {
+  font-size: x-large;
+  font-weight: bold;
+  line-height: 150%;
+  margin-top: -48pt;
+  text-align: center;
+}
+
+#logo-refs-wrapper {
+  margin-top: 40px;
+  display-style: block;
+}
+
+#logo-refs-wrapper .logo-ref {
+  float:left;
+  margin: 20px 15px;
+  padding: 0px;
+}
+
+#logo-refs-wrapper img {
+  width:180px;
 }
 
 

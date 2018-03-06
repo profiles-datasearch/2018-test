@@ -29,42 +29,41 @@
 
     <div class="wrapper">
 	  <nav>
-	  <ul></ul>
-
-    <div style="margin-top:190px">
-    <p>
-      <img src="{{ '/assets/images/keystone.png' | relative_url }}" style="width:190px"/>
-    </p>  
-      <p>
-        <img src="{{ '/assets/images/odata4urban.png' | relative_url }}" style="width:190px; margin-top:40px;"/>
-      </p>  
-    </div>
-
-	  </nav>
-
-    <aside>
-      <p>
-        <img src="{{ '/assets/images/datastories.png' | relative_url }}" style="width:190px"/>
-      </p>  
-      <p>
-        <img src="{{ '/assets/images/tbfy.png' | relative_url }}" style="width:190px"/>
-      </p>  
-      <p>
-        <img src="{{ '/assets/images/communidata.jpg' | relative_url }}" style="width:190px"/>
-      </p>  
-    </aside>
-
+	    <ul></ul>
+  	  </nav>
       <section>
 
         {{ content }}
 
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-      </footer>
-    </div>
+ 	  <footer>  
+        <div id="footerbanner"> </div>  
+        <div id="ackline">Supporting projects: </div>
+
+        <div id="logo-refs-wrapper" >
+          <div class="logo-ref">
+            <a href="http://datastories.co.uk/"><img src="{{ '/assets/images/datastories.png' | relative_url }}"/></a>
+          </div>
+          <div class="logo-ref">
+            <a href="http://www.keystone-cost.eu/keystone/"><img src="{{ '/assets/images/keystone.png' | relative_url }}"/></a>
+          </div>
+          <div class="logo-ref" style="margin: 0px 20px 10px; width:140px;">
+            <a href="http://data4urbanmobility.l3s.uni-hannover.de/index.php/de/home/"><img src="{{ '/assets/images/odata4urban.png' | relative_url }}"/></a>
+          </div>
+          <div class="logo-ref">
+            <a href="http://wdaqua.eu/"><img src="{{ '/assets/images/wdaqua.png' | relative_url }}"/></a>
+          </div>
+
+          <div class="logo-ref">
+            <a href="https://communidata.at"><img src="{{ '/assets/images/communidata.jpg' | relative_url }}"/></a>
+          </div>
+
+          <div class="logo-ref" style="width:120px; margin-top:0px;">
+            <img src="{{ '/assets/images/tbfy.png' | relative_url }}"/>
+          </div>
+        </div>
+     </footer>      
+     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 
     {% if site.google_analytics %}
